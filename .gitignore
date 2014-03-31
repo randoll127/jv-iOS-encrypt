@@ -1,0 +1,24 @@
+*.ipr
+*.iws
+*.iml
+.gradle*
+build/*
+out
+.idea
+p2p.jar
+draft.story
+chromedriver.log
+.classpath
+.gitignore.swp
+.project
+.settings/
+*.ids
+gradle.properties
+*.log
+*.log.*
+*.bak
+ .download
+bin/
+.DS_Store
+res/.DS_Store
+xcuserdata/
